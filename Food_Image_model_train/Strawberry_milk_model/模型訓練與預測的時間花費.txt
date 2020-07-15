@@ -1,0 +1,31 @@
+訓練類別: 2種
+    名稱: 草莓、牛奶
+訓練圖片: 250張/種
+model training time: ~15 min
+
+
+辨識結果:
+輸入前10張google圖片搜尋"草莓牛奶"，進行辨識:
+test\ia_900000003.png milk 0.99999964
+
+test\ia_900000004.png Strawberry 0.9741657
+
+test\ia_900000005.png milk 0.9519639
+
+test\ia_900000006.png milk 1.0
+
+test\ia_900000007.png milk 1.0
+
+test\ia_900000008.png milk 1.0
+
+test\ia_900000009.png milk 0.99757236
+
+test\ia_900000010.png milk 0.99999845
+
+test\ia_900000011.png Strawberry 0.9985782
+
+test\ia_900000012.png milk 0.9999999
+
+有8成的結果指向"牛奶"
+
+辨識時間花費:~ 7 min
