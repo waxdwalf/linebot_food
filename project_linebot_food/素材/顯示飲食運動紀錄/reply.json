@@ -1,0 +1,56 @@
+[
+{
+  "type": "template",
+  "altText": "this is a carousel template",
+  "template": {
+    "type": "carousel",
+    "actions": [],
+    "columns": [
+      {
+        "thumbnailImageUrl": "https://i.imgur.com/n95Hg90.jpg",
+        "text": "當日飲食圖表",
+        "actions": [
+          {
+            "type": "uri",
+            "label": "點我看大圖",
+            "uri": "https://i.imgur.com/n95Hg90.jpg"
+          }
+        ]
+      },
+      {
+        "thumbnailImageUrl": "https://i.imgur.com/n95Hg90.jpg",
+        "text": "當周飲食圖表",
+        "actions": [
+          {
+            "type": "uri",
+            "label": "點我看大圖",
+            "uri": "https://i.imgur.com/n95Hg90.jpg"
+          }
+        ]
+      },
+      {
+        "thumbnailImageUrl": "https://i.imgur.com/c5IjCXP.jpg",
+        "text": "當日運動紀錄",
+        "actions": [
+          {
+            "type": "uri",
+            "label": "點我看大圖",
+            "uri": "https://i.imgur.com/c5IjCXP.jpg"
+          }
+        ]
+      },
+      {
+        "thumbnailImageUrl": "https://i.imgur.com/c5IjCXP.jpg",
+        "text": "當週運動紀錄",
+        "actions": [
+          {
+            "type": "uri",
+            "label": "點我看大圖",
+            "uri": "https://i.imgur.com/c5IjCXP.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}
+]

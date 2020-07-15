@@ -1,0 +1,71 @@
+{
+  "size": {
+    "width": 2500,
+    "height": 1686
+  },
+  "selected": true,
+  "name": "初始選單",
+  "chatBarText": "查看更多資訊",
+  "areas": [
+    {
+      "bounds": {
+        "x": 839,
+        "y": 0,
+        "width": 834,
+        "height": 809
+      },
+      "action": {
+        "type": "message",
+        "text": "問卷輸入"
+      }
+    },
+    {
+      "bounds": {
+        "x": 1665,
+        "y": 0,
+        "width": 827,
+        "height": 811
+      },
+      "action": {
+        "type": "uri",
+        "uri": "https://flaskeb101.herokuapp.com/login_try"
+      }
+    },
+    {
+      "bounds": {
+        "x": 1654,
+        "y": 888,
+        "width": 846,
+        "height": 790
+      },
+      "action": {
+        "type": "message",
+        "text": "請輸入欲辨識相片"
+      }
+    },
+    {
+      "bounds": {
+        "x": 0,
+        "y": 1,
+        "width": 835,
+        "height": 810
+      },
+      "action": {
+        "type": "message",
+        "text": "顯示飲食運動紀錄"
+      }
+    },
+    {
+      "bounds": {
+        "x": 0,
+        "y": 884,
+        "width": 831,
+        "height": 790
+      },
+      "action": {
+        "type": "message",
+        "text": "顯示食譜推薦"
+      }
+    }
+  ]
+}

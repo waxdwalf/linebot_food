@@ -1,0 +1,61 @@
+
+    [
+    {
+      "type": "template",
+      "altText": "this is a carousel template",
+      "template": {
+        "type": "carousel",
+        "actions": [],
+        "columns": [
+          {
+            "thumbnailImageUrl": "https://imageproxy.icook.network/resize?height=600&nocrop=false&stripmeta=true&type=auto&url=http%3A%2F%2Ftokyo-kitchen.icook.tw.s3.amazonaws.com%2Fuploads%2Frecipe%2Fcover%2F284065%2F5f50efb6e6a730d0.jpg&width=800",
+            "text": "高麗菜飯 超簡單之電鍋版",
+            "actions": [
+              {
+                "type": "uri",
+                "label": "前往該食譜網頁",
+                "uri": "https://icook.tw/recipes/284065"
+              },
+              {
+                "type": "message",
+                "label": "營養成分(每100克)",
+                "text": "高麗菜飯 超簡單之電鍋版的每100克營養素含量\n熱量(kcal): 185.77 \n碳水化合物(g): 27.91 \n脂質(g): 5.55 \n蛋白質(g): 5.9"
+              }
+            ]
+          },
+          {
+            "thumbnailImageUrl": "https://imageproxy.icook.network/resize?height=600&nocrop=false&stripmeta=true&type=auto&url=http%3A%2F%2Ftokyo-kitchen.icook.tw.s3.amazonaws.com%2Fuploads%2Frecipe%2Fcover%2F81695%2Fc61f8ffcaf4877df.jpg&width=800",
+            "text": "小熊朱古力牛油蛋糕",
+            "actions": [
+              {
+                "type": "uri",
+                "label": "前往該食譜網頁",
+                "uri": "https://icook.tw/recipes/81695"
+              },
+              {
+                "type": "message",
+                "label": "營養成分(每100克)",
+                "text": "小熊朱古力牛油蛋糕的每100克營養素含量 \n熱量(kcal): 424.4 \n碳水化合物(g): 46.54 \n脂質(g): 23.94 \n蛋白質(g): 6.54"
+              }
+            ]
+          },
+          {
+            "thumbnailImageUrl": "https://imageproxy.icook.network/resize?height=600&nocrop=false&stripmeta=true&type=auto&url=http%3A%2F%2Ftokyo-kitchen.icook.tw.s3.amazonaws.com%2Fuploads%2Frecipe%2Fcover%2F121836%2F033740902ea85235.jpg&width=800",
+            "text": "水蜜桃千層蛋糕",
+            "actions": [
+              {
+                "type": "uri",
+                "label": "前往該食譜網頁",
+                "uri": "https://icook.tw/recipes/121836"
+              },
+              {
+                "type": "message",
+                "label": "營養成分(每100克)",
+                "text": "水蜜桃千層蛋糕的每100克營養素含量 \n熱量(kcal): 155.65 \n碳水化合物(g): 20.33 \n脂質(g): 6.17 \n蛋白質(g): 5.11"
+              }
+            ]
+          }
+        ]
+      }
+    }
+    ]

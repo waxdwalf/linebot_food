@@ -1,0 +1,29 @@
+[
+{
+  "type": "template",
+  "altText": "this is a carousel template",
+  "template": {
+    "type": "carousel",
+    "actions": [],
+    "columns": [
+      {
+        "thumbnailImageUrl": "https://i.imgur.com/3ezntdg.png",
+        "title": "你好!我是問卷貓!",
+        "text": "選擇你要填寫的問卷",
+        "actions": [
+          {
+            "type": "uri",
+            "label": "身體狀況記錄表",
+            "uri": "https://flaskeb101.herokuapp.com/login_try2"
+          },
+          {
+            "type": "uri",
+            "label": "飲食與飲水紀錄表",
+            "uri": "https://flaskeb101.herokuapp.com/login_try3"
+          }
+        ]
+      }
+    ]
+  }
+}
+]

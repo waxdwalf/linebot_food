@@ -1,0 +1,61 @@
+
+[
+{
+  "type": "template",
+  "altText": "this is a carousel template",
+  "template": {
+    "type": "carousel",
+    "actions": [],
+    "columns": [
+      {
+        "thumbnailImageUrl": "https://imageproxy.icook.network/resize?height=600&nocrop=false&stripmeta=true&type=auto&url=http%3A%2F%2Ftokyo-kitchen.icook.tw.s3.amazonaws.com%2Fuploads%2Frecipe%2Fcover%2F133607%2Fa586b4c42273b118.jpg&width=800",
+        "text": "小米紅棗粥",
+        "actions": [
+          {
+            "type": "uri",
+            "label": "前往該食譜網頁",
+            "uri": "https://icook.tw/recipes/133607"
+          },
+          {
+            "type": "message",
+            "label": "營養成分(每100克)",
+            "text": "[{'熱量(kcal)': 50.4435}, {'碳水化合物(g)': 10.4612}, {'脂質(g)': 0.3961}, {'蛋白質(g)': 1.2464}]"
+          }
+        ]
+      },
+      {
+        "thumbnailImageUrl": "https://imageproxy.icook.network/resize?height=600&nocrop=false&stripmeta=true&type=auto&url=http%3A%2F%2Ftokyo-kitchen.icook.tw.s3.amazonaws.com%2Fuploads%2Frecipe%2Fcover%2F61204%2F1d68eee8de462a1c.jpg&width=800",
+        "text": "奈奈 蜂蜜鬆餅塔",
+        "actions": [
+          {
+            "type": "uri",
+            "label": "前往該食譜網頁",
+            "uri": "https://icook.tw/recipes/61204"
+          },
+          {
+            "type": "message",
+            "label": "營養成分(每100克)",
+            "text": "[{'熱量(kcal)': 284.2201}, {'碳水化合物(g)': 37.5016}, {'脂質(g)': 11.042}, {'蛋白質(g)': 8.4514}]"
+          }
+        ]
+      },
+      {
+        "thumbnailImageUrl": "https://imageproxy.icook.network/resize?height=600&nocrop=false&stripmeta=true&type=auto&url=http%3A%2F%2Ftokyo-kitchen.icook.tw.s3.amazonaws.com%2Fuploads%2Frecipe%2Fcover%2F168494%2Fde5faedc1748caa7.jpg&width=800",
+        "text": "寶寶副食品 干貝鮭魚粥",
+        "actions": [
+          {
+            "type": "uri",
+            "label": "前往該食譜網頁",
+            "uri": "https://imageproxy.icook.network/resize?height=600&nocrop=false&stripmeta=true&type=auto&url=http%3A%2F%2Ftokyo-kitchen.icook.tw.s3.amazonaws.com%2Fuploads%2Frecipe%2Fcover%2F168494%2Fde5faedc1748caa7.jpg&width=800"
+          },
+          {
+            "type": "message",
+            "label": "營養成分(每100克)",
+            "text": "[{'熱量(kcal)': 70.9434}, {'碳水化合物(g)': 12.0755}, {'脂質(g)': 0.709}, {'蛋白質(g)': 3.6731}]"
+          }
+        ]
+      }
+    ]
+  }
+}
+]
